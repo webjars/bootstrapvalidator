@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrapvalidator</artifactId>
-    <version>0.5.2-SNAPSHOT</version>
+    <version>0.5.2</version>
     <name>BootstrapValidator</name>
     <description>WebJar for BootstrapValidator</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/bootstrapvalidator</url>
         <connection>scm:git:https://github.com/webjars/bootstrapvalidator.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrapvalidator.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>bootstrapvalidator-0.5.2</tag>
     </scm>
     
     <dependencies>
